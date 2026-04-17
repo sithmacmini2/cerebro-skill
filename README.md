@@ -1,3 +1,5 @@
+<img width="2752" height="1536" alt="Strategic Intelligence Engine Architecture" src="https://github.com/user-attachments/assets/31937f80-cfe6-4454-9c81-e4006fdcc57a" />
+
 # CEREBRO — Strategic Intelligence Engine
 
 > Scan, score, and connect knowledge across a markdown vault. Think like a strategist, not a search engine.
